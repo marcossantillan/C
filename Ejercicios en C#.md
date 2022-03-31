@@ -12,6 +12,7 @@ https://docs.microsoft.com/es-es/dotnet/api/system.console
 
 Cadenas
 https://docs.microsoft.com/es-es/dotnet/api/system.string
+
 7.	Solicite al usuario el ingreso de su nombre y presente el mensaje “Hola [nombre]”.
 8.	Solicite al usuario el ingreso de una frase y presente un mensaje indicando si alguna contiene la palabra “fin”.
 9.	Solicite un ingreso al usuario y lo presente en mayúsculas.
@@ -25,6 +26,7 @@ Valores numéricos
 https://docs.microsoft.com/en-us/dotnet/api/system.int32
 https://docs.microsoft.com/en-us/dotnet/api/system.decimal
 https://docs.microsoft.com/en-us/dotnet/api/system.math
+
 15.	Solicite un ingreso al usuario y determine si puede ser interpretado como un valor numérico.
 16.	Solicite un ingreso al usuario y determine si puede ser interpretado como un número entero.
 (De aquí en más todos los ingresos del usuario deben ser verificados, finalizando el programa con un mensaje de error en caso de ser inválidos)
@@ -35,6 +37,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.math
 
 Fechas
 https://docs.microsoft.com/en-us/dotnet/api/system.datetime
+
 21.	Presente al usuario la fecha actual.
 22.	Presente al usuario la fecha actual con el siguiente formato: dd/MM/yyyy
 23.	Solicite el ingreso de una fecha al usuario y determine si es un ingreso válido.
@@ -48,6 +51,7 @@ https://docs.microsoft.com/en-us/dotnet/api/system.datetime
 
 Intervalos de tiempo
 https://docs.microsoft.com/en-us/dotnet/api/system.timespan
+
 31.	Solicite un ingreso al usuario y determine si puede interpretarse como un intervalo de tiempo.
 32.	Solicite el ingreso de dos fechas al usuario y determine el intervalo en días, meses y años.
 33.	Solicite el ingreso de una fecha al usuario y determine cuántos días restan para el fin de año próximo más cercano.
